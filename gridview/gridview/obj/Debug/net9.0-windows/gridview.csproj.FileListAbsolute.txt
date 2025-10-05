@@ -1,0 +1,14 @@
+C:\Users\Shani\RiderProjects\gridview\gridview\bin\Debug\net9.0-windows\gridview.exe
+C:\Users\Shani\RiderProjects\gridview\gridview\bin\Debug\net9.0-windows\gridview.deps.json
+C:\Users\Shani\RiderProjects\gridview\gridview\bin\Debug\net9.0-windows\gridview.runtimeconfig.json
+C:\Users\Shani\RiderProjects\gridview\gridview\bin\Debug\net9.0-windows\gridview.dll
+C:\Users\Shani\RiderProjects\gridview\gridview\bin\Debug\net9.0-windows\gridview.pdb
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\gridview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\gridview.AssemblyInfoInputs.cache
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\gridview.AssemblyInfo.cs
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\gridview.csproj.CoreCompileInputs.cache
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\gridview.dll
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\refint\gridview.dll
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\gridview.pdb
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\gridview.genruntimeconfig.cache
+C:\Users\Shani\RiderProjects\gridview\gridview\obj\Debug\net9.0-windows\ref\gridview.dll

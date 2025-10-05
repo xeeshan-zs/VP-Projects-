@@ -1,0 +1,14 @@
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\bin\Debug\net9.0-windows\online class 4 oct.exe
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\bin\Debug\net9.0-windows\online class 4 oct.deps.json
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\bin\Debug\net9.0-windows\online class 4 oct.runtimeconfig.json
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\bin\Debug\net9.0-windows\online class 4 oct.dll
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\bin\Debug\net9.0-windows\online class 4 oct.pdb
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\online class 4 oct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\online class 4 oct.AssemblyInfoInputs.cache
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\online class 4 oct.AssemblyInfo.cs
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\online class 4 oct.csproj.CoreCompileInputs.cache
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\online class 4 oct.dll
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\refint\online class 4 oct.dll
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\online class 4 oct.pdb
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\online class 4 oct.genruntimeconfig.cache
+C:\Users\Shani\RiderProjects\online class 4 oct\online class 4 oct\obj\Debug\net9.0-windows\ref\online class 4 oct.dll

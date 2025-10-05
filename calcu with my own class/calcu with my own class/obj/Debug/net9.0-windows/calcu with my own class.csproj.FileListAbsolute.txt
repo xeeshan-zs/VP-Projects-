@@ -1,0 +1,18 @@
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\bin\Debug\net9.0-windows\calcu with my own class.exe
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\bin\Debug\net9.0-windows\calcu with my own class.deps.json
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\bin\Debug\net9.0-windows\calcu with my own class.runtimeconfig.json
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\bin\Debug\net9.0-windows\calcu with my own class.dll
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\bin\Debug\net9.0-windows\calcu with my own class.pdb
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.AssemblyInfoInputs.cache
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.AssemblyInfo.cs
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.csproj.CoreCompileInputs.cache
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.dll
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\refint\calcu with my own class.dll
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.pdb
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.genruntimeconfig.cache
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\ref\calcu with my own class.dll
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\bin\Debug\net9.0-windows\CalcuLib.dll
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\bin\Debug\net9.0-windows\CalcuLib.pdb
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu with my own class.csproj.AssemblyReference.cache
+C:\Users\Shani\RiderProjects\calcu with my own class\calcu with my own class\obj\Debug\net9.0-windows\calcu wi.4E5E3C41.Up2Date

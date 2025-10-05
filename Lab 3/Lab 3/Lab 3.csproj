@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <RootNamespace>Lab_3</RootNamespace>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="DataBase">
+        <HintPath>..\..\DataBase\DataBase\bin\Debug\net9.0\DataBase.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

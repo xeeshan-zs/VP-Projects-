@@ -1,0 +1,12 @@
+C:\Users\Shani\RiderProjects\DataBase\DataBase\bin\Debug\net9.0\DataBase.deps.json
+C:\Users\Shani\RiderProjects\DataBase\DataBase\bin\Debug\net9.0\DataBase.dll
+C:\Users\Shani\RiderProjects\DataBase\DataBase\bin\Debug\net9.0\DataBase.pdb
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\DataBase.AssemblyInfo.cs
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\DataBase.dll
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\refint\DataBase.dll
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\DataBase.pdb
+C:\Users\Shani\RiderProjects\DataBase\DataBase\obj\Debug\net9.0\ref\DataBase.dll

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "online class 4 oct", "online class 4 oct\online class 4 oct.csproj", "{5B694322-F67E-4507-AEC2-10CC6D531335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B694322-F67E-4507-AEC2-10CC6D531335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B694322-F67E-4507-AEC2-10CC6D531335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B694322-F67E-4507-AEC2-10CC6D531335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B694322-F67E-4507-AEC2-10CC6D531335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

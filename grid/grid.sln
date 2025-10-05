@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grid", "grid\grid.csproj", "{A51231E7-0843-421D-8D3C-8071CB0EBAB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51231E7-0843-421D-8D3C-8071CB0EBAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51231E7-0843-421D-8D3C-8071CB0EBAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51231E7-0843-421D-8D3C-8071CB0EBAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51231E7-0843-421D-8D3C-8071CB0EBAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <RootNamespace>calcu_with_my_own_class</RootNamespace>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="CalcuLib">
+        <HintPath>..\..\CalcuLib\CalcuLib\bin\Debug\net9.0\CalcuLib.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

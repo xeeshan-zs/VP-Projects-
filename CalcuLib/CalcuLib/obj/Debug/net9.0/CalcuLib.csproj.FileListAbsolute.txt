@@ -1,0 +1,11 @@
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\bin\Debug\net9.0\CalcuLib.deps.json
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\bin\Debug\net9.0\CalcuLib.dll
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\bin\Debug\net9.0\CalcuLib.pdb
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\CalcuLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\CalcuLib.AssemblyInfoInputs.cache
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\CalcuLib.AssemblyInfo.cs
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\CalcuLib.csproj.CoreCompileInputs.cache
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\CalcuLib.dll
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\refint\CalcuLib.dll
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\CalcuLib.pdb
+C:\Users\Shani\RiderProjects\CalcuLib\CalcuLib\obj\Debug\net9.0\ref\CalcuLib.dll

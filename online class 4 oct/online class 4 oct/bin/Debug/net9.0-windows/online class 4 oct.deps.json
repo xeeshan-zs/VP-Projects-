@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "online class 4 oct/1.0.0": {
+        "runtime": {
+          "online class 4 oct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "online class 4 oct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
